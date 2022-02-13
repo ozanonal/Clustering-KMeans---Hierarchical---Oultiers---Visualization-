@@ -1,1 +1,1 @@
-# Clustering-KMeans---Hierarchical---Oultiers---Visualization-
+#Customer Clustering-KMeans---Hierarchical---Outliers---Visualization-
